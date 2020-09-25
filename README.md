@@ -19,7 +19,7 @@ Model selection (Grid search and K Fold Cross) and XGBoost
 ---
 
 ## Setup
-> Install packages first
+> **Install packages first**
 ```
 pip install pandas-datareader
 pip install numpy
