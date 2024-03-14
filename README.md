@@ -47,7 +47,8 @@ pip install -U scikit-learn
   >- Try out Models such as Regression or Classification Models
   
 **5. Model Selection**
-  >- Cross-Validation (Kfold...)
+  >- Grid Search, Cross-Validation (Kfold...)
+  >- XGBoost
   
 **6. Model Tuning and Picking Best Model**
   >- Hyperparameter tuning ( Using Cross-Validation, Grid Search, Bayesian Optimization...)
